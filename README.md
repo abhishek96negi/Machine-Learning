@@ -1,7 +1,8 @@
 # Alogrithm
   
-  1. [Linear Regression](https://github.com/abhishek96negi/Machine-Learning/tree/master/Linear%20Regression)
-    > [Linear Regression](https://github.com/abhishek96negi/Machine-Learning/blob/master/Linear%20Regression/Notes/Linear%20Regression.ipynb)
+  1.[Linear Regression](https://github.com/abhishek96negi/Machine-Learning/tree/master/Linear%20Regression)
+    
+    >[Linear Regression](https://github.com/abhishek96negi/Machine-Learning/blob/master/Linear%20Regression/Notes/Linear%20Regression.ipynb)
     
     
     
