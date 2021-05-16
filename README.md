@@ -55,7 +55,7 @@
    1. [Linear Regression](https://github.com/abhishek96negi/Machine-Learning/blob/master/Linear%20Regression/Notes/Interview%20Question.pdf)
    2. [Logistic Regression](https://github.com/abhishek96negi/Machine-Learning/blob/master/Logistic%20Regression/Interview%20Question.pdf)
    3. [Decision Tree](https://github.com/abhishek96negi/Machine-Learning/blob/master/Decision%20Tree/Interview%20Question.pdf)
-   4. [Ensemble Boosting](https://github.com/abhishek96negi/Machine-Learning/tree/master/Ensemble%20Boosting)
+   4. [Ensemble Boosting](https://github.com/abhishek96negi/Machine-Learning/blob/master/Ensemble%20Boosting/Interview%20Question.pdf)
    5. [Random Forest](https://github.com/abhishek96negi/Machine-Learning/blob/master/Ensemble%20Learning%20And%20Random%20Forest/Interview%20Question.pdf)
    6. [Naive Bayes](https://github.com/abhishek96negi/Machine-Learning/blob/master/Naive%20Bayes/Interview%20Question.pdf)
    7. [Super Vector Machine](https://github.com/abhishek96negi/Machine-Learning/blob/master/Super%20Vector%20Machine/Interview%20Question.pdf)
