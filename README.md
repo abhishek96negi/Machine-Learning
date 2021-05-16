@@ -50,7 +50,7 @@
   
   >[Time Series Analysis](https://github.com/abhishek96negi/Machine-Learning/blob/master/Time%20Series/Time%20Series%20Analysis.ipynb)
  
-  >[Interview Question]
+  >Interview Question
    
    1. [Linear Regression](https://github.com/abhishek96negi/Machine-Learning/blob/master/Linear%20Regression/Notes/Interview%20Question.pdf)
    2. [Logistic Regression](https://github.com/abhishek96negi/Machine-Learning/blob/master/Logistic%20Regression/Interview%20Question.pdf)
