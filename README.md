@@ -33,7 +33,7 @@
        > [Titanic](https://github.com/abhishek96negi/Machine-Learning/blob/master/Decision%20Tree/Example/Titanic.ipynb)
 
   
-  > [Ensemble Learning And Random Forest](Ensemble Learning And Random Forest NoteBook](https://github.com/abhishek96negi/Machine-Learning/blob/master/Ensemble%20Learning%20And%20Random%20Forest/EnsembleLearningAndRandomForest.ipynb)
+  > [Ensemble Learning And Random Forest](https://github.com/abhishek96negi/Machine-Learning/blob/master/Ensemble%20Learning%20And%20Random%20Forest/EnsembleLearningAndRandomForest.ipynb)
     
    1. [Interview Question](https://github.com/abhishek96negi/Machine-Learning/blob/master/Ensemble%20Learning%20And%20Random%20Forest/Interview%20Question.odt)
 
