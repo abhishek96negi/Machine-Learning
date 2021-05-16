@@ -43,7 +43,7 @@
 
   > [KNN](https://github.com/abhishek96negi/Machine-Learning/blob/master/KNN/KNN_CrossValidation.ipynb)
 
-  > [Clustering]
+  >Clustering
   
    1.[K Means](https://github.com/abhishek96negi/Machine-Learning/blob/master/K%20Means%20Clustering/K%20Means.ipynb)
     
