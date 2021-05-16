@@ -10,11 +10,11 @@
   
    4. [Example](https://github.com/abhishek96negi/Machine-Learning/tree/master/Linear%20Regression/Example)
    
-   > [House Price](https://github.com/abhishek96negi/Machine-Learning/blob/master/Linear%20Regression/Example/House%20Price/House%20Price.ipynb)
+       > [House Price](https://github.com/abhishek96negi/Machine-Learning/blob/master/Linear%20Regression/Example/House%20Price/House%20Price.ipynb)
    
-   > [Movie Collection](https://github.com/abhishek96negi/Machine-Learning/blob/master/Linear%20Regression/Example/Movie%20Collection/Movie%20Collection.ipynb)
+       > [Movie Collection](https://github.com/abhishek96negi/Machine-Learning/blob/master/Linear%20Regression/Example/Movie%20Collection/Movie%20Collection.ipynb)
       
-   > [Boston](https://github.com/abhishek96negi/Machine-Learning/blob/master/Linear%20Regression/Example/Boston.ipynb)
+       > [Boston](https://github.com/abhishek96negi/Machine-Learning/blob/master/Linear%20Regression/Example/Boston.ipynb)
   
   > [Logistic Regression](https://github.com/abhishek96negi/Machine-Learning/blob/master/Logistic%20Regression/Logistic%20Regression.ipynb)
     
@@ -30,7 +30,7 @@
     
    4. [Example](https://github.com/abhishek96negi/Machine-Learning/tree/master/Decision%20Tree/Example)
     
-   > [Titanic](https://github.com/abhishek96negi/Machine-Learning/blob/master/Decision%20Tree/Example/Titanic.ipynb)
+       > [Titanic](https://github.com/abhishek96negi/Machine-Learning/blob/master/Decision%20Tree/Example/Titanic.ipynb)
 
   
   > [Ensemble Learning And Random Forest](Ensemble Learning And Random Forest NoteBook](https://github.com/abhishek96negi/Machine-Learning/blob/master/Ensemble%20Learning%20And%20Random%20Forest/EnsembleLearningAndRandomForest.ipynb)
