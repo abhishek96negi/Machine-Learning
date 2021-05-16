@@ -2,13 +2,13 @@
   
   >[Linear Regression](https://github.com/abhishek96negi/Machine-Learning/tree/master/Linear%20Regression)
   
-    1. [Linear Regression](https://github.com/abhishek96negi/Machine-Learning/blob/master/Linear%20Regression/Notes/Linear%20Regression.ipynb)
+    1.[Linear Regression](https://github.com/abhishek96negi/Machine-Learning/blob/master/Linear%20Regression/Notes/Linear%20Regression.ipynb)
 
-    2. [Interview Question](https://github.com/abhishek96negi/Machine-Learning/blob/master/Linear%20Regression/Notes/Interview%20Question.odt)
+    2.[Interview Question](https://github.com/abhishek96negi/Machine-Learning/blob/master/Linear%20Regression/Notes/Interview%20Question.odt)
     
-    3. [Lasso and Ridge](https://github.com/abhishek96negi/Machine-Learning/blob/master/Linear%20Regression/Regression/Lasso%20and%20Ridge.ipynb)
+    3.[Lasso and Ridge](https://github.com/abhishek96negi/Machine-Learning/blob/master/Linear%20Regression/Regression/Lasso%20and%20Ridge.ipynb)
     
-    4. [Example](https://github.com/abhishek96negi/Machine-Learning/tree/master/Linear%20Regression/Example)
+    4.[Example](https://github.com/abhishek96negi/Machine-Learning/tree/master/Linear%20Regression/Example)
     
       > [House Price](https://github.com/abhishek96negi/Machine-Learning/blob/master/Linear%20Regression/Example/House%20Price/House%20Price.ipynb)
     
