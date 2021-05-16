@@ -37,7 +37,7 @@
     
    1. [Interview Question](https://github.com/abhishek96negi/Machine-Learning/blob/master/Ensemble%20Learning%20And%20Random%20Forest/Interview%20Question.odt)
 
-  > [Ensemble Boosting](https://github.com/abhishek96negi/Machine-Learning/blob/master/Ensemble%20Boosting/Boosting.ipynb)
+  >[Ensemble Boosting](https://github.com/abhishek96negi/Machine-Learning/blob/master/Ensemble%20Boosting/Boosting.ipynb)
 
    1. [Interview Question](https://github.com/abhishek96negi/Machine-Learning/blob/master/Ensemble%20Boosting/Interview%20Question.odt)
 
